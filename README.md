@@ -17,6 +17,8 @@
   ·
   <a href="https://github.com/shauryajain07?tab=repositories"><code>explore the experiments</code></a>
   ·
+  <a href="https://shaurya-jain-portfolio.dynamic-0947.chatgpt.site"><code>portfolio</code></a>
+  ·
   <code>status: shipping</code>
 </p>
 
@@ -71,6 +73,12 @@ community:  ROOT19
   </blockquote>
 </details>
 
+## experience
+
+- **Lead Software Engineer · Rootatom** *(2024–2026)* — led full-stack engineering for a student practice and progress platform.
+- **Machine Learning Intern · Pharmint** *(2025)* — researched how ML could support cancer-cell research.
+- **Freelance builder** *(2020–2026)* — built websites, small tools, automations, and experiments across web, software, and ML.
+
 ## 🌱 ROOT19
 
 <p align="center">
@@ -98,16 +106,16 @@ CURRENT EXPERIMENTS
 
 ### [Doubtabase](https://github.com/shauryajain07/doubtabase)
 
-An AI-powered system for turning screenshots and notes into searchable, structured learning data — with weaknesses, retrieval, and RAG-shaped ambitions.
+A native SwiftUI macOS app for turning difficult question screenshots into searchable learning data with local OCR and semantic retrieval.
 
 `AI` `RAG` `vector search` `education`
 
     </td>
     <td width="50%" valign="top">
 
-### Premier League Predictor
+### [Premier League Predictor](https://github.com/shauryajain07/pram-league)
 
-An ML experiment exploring historical data, feature engineering, leakage, upset prediction, and the limits of statistical confidence.
+An ML experiment exploring player performance signals, chronological features, leakage, calibration, and the limits of statistical confidence.
 
 `Python` `ML` `data` `football`
 
@@ -130,6 +138,26 @@ A Chrome extension where the small details matter: resizing, persistence, positi
 Agentic files, NFC alarms, and hardware experiments that make software leave the browser and touch reality.
 
 `Raspberry Pi` `agents` `hardware` `automation`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [Past Paper Tracker](https://github.com/shauryajain07/PastPaperTracker)
+
+A SwiftUI iPhone app for logging marks, tracking mistakes, attaching question photos, and keeping revision data together.
+
+`SwiftUI` `iOS` `Supabase` `learning tools`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [Alma Academic OS](https://github.com/shauryajain07/Personal-Concierge)
+
+A full-stack academic workspace that connects deadlines, grades, notes, study history, and available time to answer: what should I work on right now?
+
+`Next.js` `TypeScript` `SQLite` `Codex`
 
     </td>
   </tr>
