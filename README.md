@@ -14,8 +14,4 @@ mostly Python, JavaScript, and SQL; lately Django, PostgreSQL, and Supabase too.
 
 also, a lot of Oasis. *Definitely Maybe* and *(What's the Story) Morning Glory?* are hard to beat.
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=shauryajain07&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats for Shaurya Jain" width="480" />
-</p>
-
 [website](https://shauryajain.tech) · [github](https://github.com/shauryajain07)
